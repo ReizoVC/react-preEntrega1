@@ -9,7 +9,7 @@ function Carrito() {
 
   return (
     <div className='carritocont'>
-        <a href="https://cdn.shopify.com/">
+        <a href="https://github.com/ReizoVC/react-preEntrega1">
           <img src={carritoimg} alt="carrito" className="carrito-nav" />
         </a>
           <CartWidget

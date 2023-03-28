@@ -11,9 +11,9 @@ function Navbar(){
       <nav className="main-nav">
         <Mainlg></Mainlg>
         <ul className="nav-list">
-          <li><a href="https://cdn.shopify.com/" className="list-product">Home</a></li>
-          <li><a href="https://cdn.shopify.com/" className="list-product">Products</a></li>
-          <li><a href="https://cdn.shopify.com/" className="list-product">About us</a></li>
+          <li><a href="https://github.com/ReizoVC/react-preEntrega1" className="list-product">Home</a></li>
+          <li><a href="https://github.com/ReizoVC/react-preEntrega1" className="list-product">Products</a></li>
+          <li><a href="https://github.com/ReizoVC/react-preEntrega1" className="list-product">About us</a></li>
         </ul>
         <Carrito></Carrito>
       </nav>
