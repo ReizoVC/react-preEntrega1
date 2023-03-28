@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(214, 152, 18);
+}
+
+
+.nav-logo, .carrito-nav{
+    height: 100px;
+}
+
+.main-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1400px;
+    margin: auto;
+}
+
+.nav-list{
+    display: flex;
+    text-align: center;
+}
+
+.list-product{
+    padding: 0 15px;
+    color: rgb(37, 37, 37);
+    font-size: em;
+}
+
+.carritocont{
+    display: flex;
+    align-items: flex-end;
+}
+
+.cantidad-carrito{
+    display: block;
+    background-color: red;
+    height: 30px;
+    width: 20px;
+    font-size: 1.3em;
+    border-radius: 10px;
+}
