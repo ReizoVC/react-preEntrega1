@@ -23,7 +23,8 @@ header{
 .list-product{
     padding: 0 15px;
     color: rgb(37, 37, 37);
-    font-size: em;
+    font-size: 1.5em;
+    font-weight: 600;
 }
 
 .carritocont{
@@ -38,4 +39,12 @@ header{
     width: 20px;
     font-size: 1.3em;
     border-radius: 10px;
+}
+
+.logocontainer{
+    display: flex;
+}
+.logoname{
+    text-align: center;
+    font-size: 2em;
 }
